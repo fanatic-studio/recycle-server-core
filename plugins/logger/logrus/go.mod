@@ -3,7 +3,7 @@ module recycle-server-core/plugins/logger/logrus
 go 1.18
 
 require (
-	github.com/fanatic-studio/recycle-server-core v1.2.4
+	github.com/fanatic-studio/recycle-server-core v1.3.0
 	github.com/sirupsen/logrus v1.8.1
 )
 
